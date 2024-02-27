@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Jesse Prendergast</title>
+    <link>https://jesseprendergast.girhub.io/blog/</link>
+    <description>Recent content in Blog on Jesse Prendergast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-nz</language>
+    <lastBuildDate>Tue, 27 Feb 2024 15:04:42 +1300</lastBuildDate>
+    <atom:link href="https://jesseprendergast.girhub.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About this blog</title>
+      <link>https://jesseprendergast.girhub.io/blog/personal/about-this-blog/</link>
+      <pubDate>Tue, 27 Feb 2024 15:04:42 +1300</pubDate>
+      <guid>https://jesseprendergast.girhub.io/blog/personal/about-this-blog/</guid>
+      <description>This blog will be home to personal musings, and things that I find interesting. It is mostly a record for myself, though you are welcome to peruse.&#xA;My other work that has a more specific purpose, such as Reckoning In Systems (a blog about systems thinking and city design) may be posted here as well.</description>
+    </item>
+  </channel>
+</rss>
