@@ -1,0 +1,9 @@
+Sweet
+*******
+
+.. toctree::
+
+   sweet/chocolate_self_saucing_pudding
+   sweet/danielas_chocolate_chip_cookies
+   sweet/ginger_gems.rst
+   sweet/oat_bars

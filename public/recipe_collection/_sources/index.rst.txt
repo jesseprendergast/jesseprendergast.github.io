@@ -1,0 +1,11 @@
+Jesse's Recipe Collection
+=========================
+
+This is a collection of recipes that I like, and that I find useful to have on hand.
+
+.. toctree::
+   :maxdepth: 2
+
+   savoury
+   sweet
+   recipes_to_add

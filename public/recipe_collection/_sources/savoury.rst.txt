@@ -1,0 +1,8 @@
+Savoury
+*******
+
+.. toctree::
+
+   savoury/best_cheese_scones
+   savoury/kumara_and_bacon_soup
+   savoury/mexican_spiced_tomato_soup
